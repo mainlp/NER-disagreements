@@ -1,0 +1,1 @@
+Please download data from https://github.com/mainlp/BarNER/tree/main/data/BarNER-double
